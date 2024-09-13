@@ -7,13 +7,13 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2347036214381']
-global.ownMain = '2348102487241'
-global.NamaOwner = 'EᴅɴᴜT' //gausah diganti
+global.owner = ['2349121056093']
+global.ownMain = '2349121056093'
+global.NamaOwner = 'Tv_guy' //gausah diganti
 global.sessionName = 'sessionnya'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = 'n⃠αrutσ v3.5' //ganti aj klo mau
-global.author = 'Ednut himself' //ganti aj klo mau
+global.author = 'Tv_guy' //ganti aj klo mau
 global.packname = 'n⃠αrutσ' //ganti aj klo mau
 global.typeMenu = true // jika bernilai true, menu akan menjadi button namun tidak terlihat di ios
 global.url1 = '' //gausah diganti
